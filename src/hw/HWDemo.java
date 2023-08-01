@@ -12,4 +12,8 @@ public class HWDemo {
 		System.out.println("*******Aisha Aljanabi*******");
 
 	}
+	protected boolean random(int m) {
+
+		return false;
+	}
 }
