@@ -2,6 +2,8 @@ package hw;
 
 public class HWDemo {
 
+	String teamOne[] = { "Tiffany", "Sterling", "Aisha", "Swen", "Eltaf" };
+
 	public static void main(String[] args) {
 		System.out.println("HW");
 
@@ -14,7 +16,6 @@ public class HWDemo {
 		System.out.println("*******Sterling Madrid*******");
 		
 		System.out.println("*******Tiffany Vega*******");
-		
 
 	}
 
