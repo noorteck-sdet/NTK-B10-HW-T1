@@ -10,6 +10,9 @@ public class HWDemo {
 		System.out.println("*******Swen Gonzalez*******");
 
 		System.out.println("*******Aisha Aljanabi*******");
+		
+		System.out.println("*******Sterling Madrid*******");
+		
 
 	}
 
